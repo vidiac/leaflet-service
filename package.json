@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/korenskoy/leaflet-service/issues"
   },
-  "homepage": "https://github.com/korenskoy/leaflet-service#readme"
+  "homepage": "https://github.com/korenskoy/leaflet-service#readme",
+  "dependencies": {
+    "leaflet": "^1.4.0",
+    "leaflet.markercluster": "^1.4.1"
+  }
 }
