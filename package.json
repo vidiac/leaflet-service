@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-service",
+  "version": "0.0.1",
+  "description": "Service for manipulate Leaflet maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korenskoy/leaflet-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korenskoy/leaflet-service/issues"
+  },
+  "homepage": "https://github.com/korenskoy/leaflet-service#readme"
+}
