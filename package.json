@@ -16,8 +16,28 @@
     "url": "https://github.com/korenskoy/leaflet-service/issues"
   },
   "homepage": "https://github.com/korenskoy/leaflet-service#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-decorators": "^7.4.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "@babel/plugin-transform-runtime": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/runtime": "^7.4.2"
+  },
   "dependencies": {
     "leaflet": "^1.4.0",
+    "leaflet-plugins": "^3.0.3",
     "leaflet.markercluster": "^1.4.1"
-  }
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "iOS >= 8",
+    "Chrome 41",
+    "IE 11"
+  ]
 }
